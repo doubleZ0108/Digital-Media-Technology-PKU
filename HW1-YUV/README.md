@@ -1,6 +1,6 @@
 # 第一次作业 - YUV文件的存储与观察
 
-<center>2101212846	        		张喆</center>
+<center>姓名：张喆		&emsp;&emsp;&emsp;&emsp;		学号：2101212846		&emsp;&emsp;&emsp;&emsp;		导师：王荣刚教授</center>
 
 [toc]
 
@@ -18,7 +18,11 @@
 
 ### 系统环境
 
-​	使用macOS Big Sur 11.6操作系统进行实验
+- **操作系统**：macOS Big Sur 11.6
+- **IDE**：VSCode 1.60.2
+- **Python版本**：v3.7.11(conda)
+- **FFmpeg版本**：v4.0
+- **OpenCV版本**：v3.4.2
 
 ## 视频采集与格式转换
 
